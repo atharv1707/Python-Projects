@@ -1,0 +1,7 @@
+It's just a simple program. The walls close in each time there is a collision, and it closes after a certain distance. I implemented the logic mostly by myself , and I take pride in that. I enjoyed this mini-mini project, it was fun making it. Maybe sometime I will add more objects sometime but hey, it's still fun. I have not included any music file here, because I am too lazy for that. I like this code, this is my design .
+
+Thank for reading!
+Have a good day/night whatever, friend...
+
+~ Atharv
+
